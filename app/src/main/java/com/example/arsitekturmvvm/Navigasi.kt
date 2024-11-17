@@ -19,6 +19,7 @@ import com.example.arsitekturmvvm.ui.view.FormulirView
 import com.example.arsitekturmvvm.ui.view.TampilMahasiswaView
 import com.example.arsitekturmvvm.viewmodel.MahasiswaViewModel
 
+
 enum class Halaman{
     Form,
     Data
