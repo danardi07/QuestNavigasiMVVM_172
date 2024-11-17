@@ -8,6 +8,7 @@ import androidx.compose.ui.Modifier
 import com.example.arsitekturmvvm.model.Mahasiswa
 
 
+
 @Composable
 fun TampilMahasiswaView(
     mhs: Mahasiswa
