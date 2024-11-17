@@ -25,6 +25,7 @@ enum class Halaman{
     Data
 }
 
+
 @Composable
 fun Navigasi(
     modifier: Modifier = Modifier,
